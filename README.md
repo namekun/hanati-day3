@@ -458,7 +458,7 @@ class PrivateDemo {
 ## Uml 그리기
 
 * 처음 default로 시작
-* <<analysisModel>>에서 Main에 그린다.
+* `<<analysisModel>>`에서 Main에 그린다.
 * +: public, -:private, #:protected
 
 ---
